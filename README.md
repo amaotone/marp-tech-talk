@@ -10,11 +10,13 @@ headingDivider: 2
 
 <!-- _class: center -->
 
-"Yutori" は日本語もコードも綺麗に表示される Marp テーマです。
+"Yutori" は日本語もコードもすっきりと余裕を持って表示される Marp テーマです。
 
-本文には [M PLUS 2](https://mplusfonts.github.io/) 、ソースコードには [Fira Mono](http://mozilla.github.io/Fira/) を採用しています。
+本文には [M PLUS 2](https://mplusfonts.github.io/) 、ソースコードには [Roboto Mono](https://github.com/googlefonts/RobotoMono) を採用しています。
 
-## Usage
+主に技術的な発表をするために作ったので、LTなどにぜひお使いください。
+
+## Usage: VSCode
 
 `.vscode/settings.json` に `markdown.marp.themes` の項目を追加してください。
 
