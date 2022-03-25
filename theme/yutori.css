@@ -11,6 +11,14 @@ code {
   font-family: "Roboto Mono", monospace;
 }
 
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  font-size: 140%;
+}
+
 section.center {
   text-align: center;
 }

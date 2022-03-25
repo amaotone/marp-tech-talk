@@ -37,6 +37,16 @@ theme: yutori
 ---
 ```
 
+## Usage: Marp CLI
+
+[`theme/yutori.css`](https://raw.githubusercontent.com/amaotone/marp-theme-yutori/main/theme/yutori.css) をダウンロードして、適切な場所に置いてください。
+
+以下のコマンドでビルドしてください。
+
+```bash
+$ marp [path/to/markdown] --theme [path/to/theme]
+```
+
 ## Additional Classes
 
 |名前|使いみち|
