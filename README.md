@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: yutori
-size: 16:9
+size: "16:9"
 paginate: true
 headingDivider: 2
 ---
